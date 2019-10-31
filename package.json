@@ -1,0 +1,38 @@
+{
+  "name": "minijsonfile",
+  "version": "0.0.3",
+  "description": "This package will provide some simple json file utility",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaw1236/minijsponfile"
+  },
+  "keywords": [
+    "json",
+    "file",
+    "object"
+  ],
+  "author": {
+    "name": "Simon Li"
+  },
+  "readme": "# Provide simple json file utility",
+  "readmeFilename": "README.md",
+  "dependencies": { 
+        "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+        "fs": "0.0.1-security"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/shaw1236/minijsponfile/issues"
+  },
+  "homepage": "https://github.com/shaw1236/minijsponfile",
+  "_id": "minijsponfile@0.0.3",
+  "scripts": {},
+  "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
+  "_from": "minijsponfile@"
+}
